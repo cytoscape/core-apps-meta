@@ -1,7 +1,5 @@
 package org.cytoscape.internal;
 
-import java.util.Properties;
-
 import org.cytoscape.service.util.AbstractCyActivator;
 import org.osgi.framework.BundleContext;
 
