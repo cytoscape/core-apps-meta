@@ -130,7 +130,7 @@
 						<Export-Package>${bundle.namespace}</Export-Package>
 						<Private-Package>${bundle.namespace}.internal.*</Private-Package>
 						<Bundle-Activator>${bundle.namespace}.internal.CyActivator</Bundle-Activator>
-						<Cytoscape-App-Dependencies>BioGRID Data Source;3.3.0,Biomart Web Service Client;3.3.0,BioPAX Reader;3.3.0.1,Command Line Implementation;3.3.0,CyCL;3.3.1,cyREST;3.3.2,JSON Support;3.4.0,Network Merge;3.3.1,NetworkAnalyzer;3.3.1,OpenCL Prefuse Layout;3.3.1,PSI-MI Reader;3.3.0,SBML Reader;3.3.0,PSICQUIC Web Service Client;3.3.0,Welcome Screen;3.4.0</Cytoscape-App-Dependencies>
+						<Cytoscape-App-Dependencies>BioGRID Data Source;3.3.0,Biomart Web Service Client;3.3.0,BioPAX Reader;3.3.0.1,Command Line Implementation;3.3.0,CyCL;3.3.1,cyREST;3.3.2,JSON Support;3.4.0,Network Merge;3.3.2,NetworkAnalyzer;3.3.1,OpenCL Prefuse Layout;3.3.1,PSI-MI Reader;3.3.0,SBML Reader;3.3.0,PSICQUIC Web Service Client;3.3.0,Welcome Screen;3.4.0</Cytoscape-App-Dependencies>
 					</instructions>
 				</configuration>
 			</plugin>
