@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape</groupId>
 	<artifactId>core-apps-meta</artifactId>
-	<version>3.4.1-SNAPSHOT</version>
+	<version>3.4.1</version>
 
 	<name>Core Apps</name>
 	
