@@ -15,7 +15,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape</groupId>
 	<artifactId>core-apps-meta</artifactId>
-	<version>3.7.0</version>
+	<version>3.7.0-SNAPSHOT</version>
 
 	<name>Core Apps</name>
 
